@@ -20,7 +20,7 @@ global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vakp0UnIC
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/vRR63CN.jpeg,https://i.imgur.com/ovCfp9J.jpeg,https://i.imgur.com/edzo5dj.jpeg";
 global.devs = "https://wa.me/50931461936 , https://wa.me/50931461936";
 global.sudo = process.env.SUDO || "50931461936";
-global.owner = process.env.OWNER_NUMBER || "PUT YOUR OWNER NUMBER";
+global.owner = process.env.OWNER_NUMBER || "224610780444";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "true";
@@ -43,7 +43,7 @@ global.scan = "https://drk-tech-2.onrender.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "mettre votre session ici"
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMEhVZEg2cHFCUjRDNm5ITjlvWjdrSjdvNGQzaVN2ZnB1djZUcXhIUHpubz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUEh4TVJSUWxHcW9NSzNHMU50TElQbWR4emdrZmh5N3dBNWoyemdDYWRrQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPQUJ5OWl6QW9oanY2NW83Vzh1S25Rd3EwNFBONXFOaWZYSG5LNE43OTFjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ1eElkRjJFdm1Ua2F4Y0dVdUt3VFpmbWtnNERKdEpxODBTZm1VMU8rcFNrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNOdjE5K0NGWU1RZlVLY3JsZnpFaFBZQXRObytYT2g5V3A3NDUwYTZJbnM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImpoZjVDSHgvaU1FR3Zkc2c4ZlVVYXZSRUZNNnhkY29JNTBXTGZHb2dMSFE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOE56WFNHMm02Tm1abWE5MmVySmpOdlNMb1RtZVlQVm80Y013Y3NzR2FrYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMThubFBXZEtzRzVaeEZtcTMzVWlRcCtQdkRyRjdSOVpydkV4VFkvQmVuUT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRmRGFMdmNiVkhIYjNKWlpqaFVlMUFidDlXeEZYU2VYb0VhMERQbTcvRk1aNU1pb3lFWmsxaS90M1hzMHdvYktzYzEyelNmWU9aOXZ2NW9tOFJHc2d3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTYxLCJhZHZTZWNyZXRLZXkiOiI2akFpZk9Gb28xVmhmQW8vaTVNUFdFUGIxNWVQRlZoanBvVDVUTkpKVGFRPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJ1andycDdlNFQ0bUlnME94dk16Q2NBIiwicGhvbmVJZCI6IjQ5NzM2ZmVmLWY2MTctNDA3OC1hNWExLTgzYTU4M2NlOTM0MSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJIUmwwSzNxUDM3b2tCSmRCeGYvakxQbGVQTEU9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieW1BaG9QUldUd29welZWQWZEMDAyNW1CRy8wPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlEzTDdaOURRIiwibWUiOnsiaWQiOiIyMjQ2MTA3ODA0NDQ6MkBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJLaXJh8J+RuvCfkbrwn5G5In0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNbTN0YU1IRU1pMXRyNEdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJCdjVOY2kvcVpQZjNsdXRrbUZPaHBUd2g0UE5aUTJ1NHdOUUwrU0RWdGpRPSIsImFjY291bnRTaWduYXR1cmUiOiIxWVpDY0hrZmRxaUlwZVhjVW5oc1FHR3JVZmhxZC9FbkVITkEycU1USWFZd3g2a0hwVFl5ODFudnZ2WHY2ZUkzaERScUFIT2FEcmI4eS9WcGt2eCtBUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiSzJIMHJnbWtLNjhWMzF1TUFCS3NrejN0QUttZElMcUpCcHRTdGh3MDV6VStGT1hoa1ZETFJPMWlIVU56L2E5ZzlYM1F4VmJLa2V2dlVNVlFkbVVIalE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMjQ2MTA3ODA0NDQ6MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJRYitUWEl2Nm1UMzk1YnJaSmhUb2FVOEllRHpXVU5ydU1EVUMva2cxYlkwIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQxNTI3NzY0LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUpSSSJ9 "
 module.exports = {
   menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || ".",
@@ -53,7 +53,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || " 𝙎-𝙏𝞢𝞜",
   packname: process.env.PACK_NAME || "𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨",
   botname: process.env.BOT_NAME || "ST┘𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨𖤐",
-  ownername: process.env.OWNER_NAME || "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
+  ownername: process.env.OWNER_NAME || "🌹⃟⃢👑 k҉i҉r҉a҉👹👹🌹⃟⃢👑",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "tCxobE1FqJgfbDZgsYQNHBFB",
